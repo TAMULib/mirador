@@ -1,6 +1,6 @@
 {
-  "name": "mirador",
-  "version": "3.3.0",
+  "name": "tamu-mirador",
+  "version": "3.3.1-rc.1",
   "description": "An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.",
   "main": "dist/cjs/src/index.js",
   "module": "dist/es/src/index.js",
@@ -49,6 +49,7 @@
     "jss-rtl": "^0.3.0",
     "lodash": "^4.17.11",
     "manifesto.js": "^4.2.0",
+    "mirador-image-tools": "^0.10.0",
     "normalize-url": "^4.5.0",
     "openseadragon": "^2.4.2",
     "prop-types": "^15.6.2",
