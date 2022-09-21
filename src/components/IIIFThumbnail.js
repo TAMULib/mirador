@@ -29,7 +29,7 @@ export class IIIFThumbnail extends Component {
 
   /** */
   componentDidMount() {
-    this.setState(state => ({ ...state, image: this.image() }));
+    this.setState(state => ({ ...state, image: this.image(), loaded: true }));
   }
 
   /** */
